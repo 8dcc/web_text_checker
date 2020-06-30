@@ -1,4 +1,4 @@
-## web_text_checker
+## Web text checker
 Checks if a text is in a web.
 ### Description
 It has 2 modes which have to be edited from the code, manual mode or programmed mode. The manual mode checks a single string in a web and the programmed mode checks it every X seconds and sends you an email if the content changes (optional).
